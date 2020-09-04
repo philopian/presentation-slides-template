@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "reveal.js": "3.8.0"
   },
   "devDependencies": {
